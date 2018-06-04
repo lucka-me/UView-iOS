@@ -1,0 +1,87 @@
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "03l-Mk-fyA"; */
+"03l-Mk-fyA.text" = "位置";
+
+/* Class = "UILabel"; text = "Dark Sky"; ObjectID = "3bl-mr-S7B"; */
+"3bl-mr-S7B.text" = "Dark Sky";
+
+/* Class = "UILabel"; text = "Lucka"; ObjectID = "9tW-sK-A3e"; */
+"9tW-sK-A3e.text" = "Lucka";
+
+/* Class = "UILabel"; text = "OpenWeatherMap"; ObjectID = "B4C-ke-hhG"; */
+"B4C-ke-hhG.text" = "OpenWeatherMap";
+
+/* Class = "UILabel"; text = "0.1 (1)"; ObjectID = "BcI-Tw-iWq"; */
+"BcI-Tw-iWq.text" = "0.1 (1)";
+
+/* Class = "UITableViewSection"; headerTitle = "Coordinate"; ObjectID = "Fgk-TI-ael"; */
+"Fgk-TI-ael.headerTitle" = "坐標";
+
+/* Class = "UILabel"; text = "Denied"; ObjectID = "FvB-62-CP6"; */
+"FvB-62-CP6.text" = "Denied";
+
+/* Class = "UILabel"; text = "HealthKit"; ObjectID = "IQE-Ls-Cug"; */
+"IQE-Ls-Cug.text" = "HealthKit";
+
+/* Class = "UINavigationItem"; title = "UView"; ObjectID = "LzL-xb-BOt"; */
+"LzL-xb-BOt.title" = "UView";
+
+/* Class = "UITableViewController"; title = "Settings"; ObjectID = "NkH-rX-vru"; */
+"NkH-rX-vru.title" = "Settings";
+
+/* Class = "UITableViewSection"; footerTitle = "Tap to open in Twitter."; ObjectID = "Q7B-3K-21A"; */
+"Q7B-3K-21A.footerTitle" = "Tap to open in Twitter.";
+
+/* Class = "UITableViewSection"; headerTitle = "Credit"; ObjectID = "Q7B-3K-21A"; */
+"Q7B-3K-21A.headerTitle" = "Credit";
+
+/* Class = "UILabel"; text = "Notification"; ObjectID = "SeI-hp-3fX"; */
+"SeI-hp-3fX.text" = "Notification";
+
+/* Class = "UITableViewSection"; footerTitle = "Tap to open in Safari."; ObjectID = "Zpx-iF-h6p"; */
+"Zpx-iF-h6p.footerTitle" = "Tap to open in Safari.";
+
+/* Class = "UITableViewSection"; headerTitle = "Data Source"; ObjectID = "Zpx-iF-h6p"; */
+"Zpx-iF-h6p.headerTitle" = "Data Source";
+
+/* Class = "UITableViewSection"; headerTitle = "Authority"; ObjectID = "Zzf-Bo-LR7"; */
+"Zzf-Bo-LR7.headerTitle" = "Authority";
+
+/* Class = "UILabel"; text = "Denied"; ObjectID = "bkZ-dw-yyv"; */
+"bkZ-dw-yyv.text" = "Denied";
+
+/* Class = "UITableViewSection"; headerTitle = "About"; ObjectID = "c7d-i3-NMb"; */
+"c7d-i3-NMb.headerTitle" = "About";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "drm-0f-UZl"; */
+"drm-0f-UZl.text" = "Loading";
+
+/* Class = "UILabel"; text = "Latitude"; ObjectID = "eJj-zb-OIl"; */
+"eJj-zb-OIl.text" = "Latitude";
+
+/* Class = "UILabel"; text = "Developer"; ObjectID = "jBK-tB-NFE"; */
+"jBK-tB-NFE.text" = "Developer";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "mDq-Pr-pFc"; */
+"mDq-Pr-pFc.text" = "About";
+
+/* Class = "UITableViewController"; title = "About"; ObjectID = "mLK-DH-fYw"; */
+"mLK-DH-fYw.title" = "About";
+
+/* Class = "UITableViewSection"; headerTitle = "UV Index"; ObjectID = "ofM-uo-lH4"; */
+"ofM-uo-lH4.headerTitle" = "UV Index";
+
+/* Class = "UILabel"; text = "Longitude"; ObjectID = "sMr-wx-1Zj"; */
+"sMr-wx-1Zj.text" = "Longitude";
+
+/* Class = "UILabel"; text = "Denied"; ObjectID = "urs-hW-Nn0"; */
+"urs-hW-Nn0.text" = "Denied";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "vZL-cq-19Z"; */
+"vZL-cq-19Z.text" = "Loading";
+
+/* Class = "UILabel"; text = "Loading"; ObjectID = "wen-nk-ivo"; */
+"wen-nk-ivo.text" = "Loading";
+
+/* Class = "UITableViewSection"; headerTitle = "Version"; ObjectID = "z0Q-Pf-ZwZ"; */
+"z0Q-Pf-ZwZ.headerTitle" = "Version";
